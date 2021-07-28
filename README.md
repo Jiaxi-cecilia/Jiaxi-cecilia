@@ -4,7 +4,7 @@
 - 💞️ I’m looking for a job in Data Analytics
 - 📫 you can reach me by ceciliajx.wang@mail.utoronto.ca
 
-Python 3 demoproject: https://github.com/Jiaxi-cecilia/Jiaxi-cecilia/blob/main/CeciMap.py
+Python 3 demo project: https://github.com/Jiaxi-cecilia/Jiaxi-cecilia/blob/main/CeciMap.py
 
 <!---
 Jiaxi-cecilia/Jiaxi-cecilia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
